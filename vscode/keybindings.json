@@ -10,4 +10,14 @@
     "command": "-workbench.action.terminal.focus",
     "when": "terminalHasBeenCreated && !terminalFocus || terminalProcessSupported && !terminalFocus"
   }
+  {
+    "key": "cmd+k",
+    "command": "-cursorai.action.generateInTerminal",
+    "when": "terminalFocus"
+  },
+  {
+    "key": "cmd+k",
+    "command": "workbench.action.terminal.clear",
+    "when": "terminalFocus"
+  }
 ]
