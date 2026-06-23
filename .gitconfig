@@ -2,7 +2,7 @@
 	excludesfile = ~/.gitignore_global
 [user]
 	name = Artur Yersh
-	username = artyorshatrecare
+	username = artyorsh-recare
         email = artur.yersh@recaresolutions.com
 [alias]
 	conflicts = diff --name-only --diff-filter=U

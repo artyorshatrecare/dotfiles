@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "name": "agent-config",
+      "path": "../agent-config"
+    },
+    {
+      "name": "dotfiles",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.watcherExclude": {
+      "**/.git/objects/**": true
+    }
+  }
+}
